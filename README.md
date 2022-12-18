@@ -12,9 +12,12 @@ This project aims to identify which factors influence the price of a second hand
 The project is done in VS code with Jupyter Notebook extension.
 
 In this repository you can find the .csv file to perform this analysis.
-
-
-
+|
+|
+|
+|
+|
+|
 *** CONTENTS ***
 
 * Intro
