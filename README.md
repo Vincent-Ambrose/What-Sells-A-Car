@@ -12,12 +12,14 @@ This project aims to identify which factors influence the price of a second hand
 The project is done in VS code with Jupyter Notebook extension.
 
 In this repository you can find the .csv file to perform this analysis.
-|
-|
-|
-|
-|
-|
+	  
+          
+          
+________________________________
+
+
+
+          
 *** CONTENTS ***
 
 * Intro
@@ -35,3 +37,7 @@ In this repository you can find the .csv file to perform this analysis.
     * 3.4 Average price for each type of vehicle
     * 3.5 Price factor
 * Conclusion
+
+
+
+________________________________
