@@ -7,7 +7,7 @@ A quick analysis to see what factors influence the price of a used vehicle
 
 Description of the project:
 
-This project aims to identify which factors influence the price of a second hand vehicle. To achieve so, an analysis of an ads website for second hand vehicles is done.
+This project aims to identify which factors influence the price of a second hand vehicle. To achieve so, an analysis of an ads website for used vehicles is done.
 
 The project is done in VS code with Jupyter Notebook extension.
 
