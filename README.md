@@ -12,3 +12,21 @@ This project aims to identify which factors influence the price of a second hand
 The project is done in VS code with Jupyter Notebook extension.
 
 In this repository you can find the .csv file to perform this analysis.
+
+
+
+* Intro
+* Stage 1. Data description
+    * 1.1 Explore initial data
+* Stage 2. Data preprocessing
+    * 2.1 Handle missing values (if any)
+    * 2.2 Correcting data types
+    * 2.3  Enriching data
+    * [2.4 Checking clean data](#Checking_clean_data)
+* [Stage 3. Exploratory data analysis](#exploratory_data_analysis)
+    * [3.1 Studying and working the outliers](#Studying_working_outliers)
+    * [3.2 Studying main parameters with outliers filtration](#Studying_main_parameters_with_outliers_filtration)
+    * [3.3 Ad placement period](#Ad_placement_period)
+    * [3.4 Average price for each type of vehicle](#avg_price_per_vehicle)
+    * [3.5 Price factor](#price_factor)
+* [Conclusion](#conclusion)
